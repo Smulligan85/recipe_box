@@ -1,3 +1,4 @@
 == RECIPE BOX
 
 Recipe Box Build with Ruby on Rails
+Sean Mulligan February 2014
